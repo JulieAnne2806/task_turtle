@@ -1,5 +1,5 @@
-from digit import Digit
-from hands import Hand
+from digit_shypilova import Digit
+from hands_shypilova import Hand
 import time
 from math import sin, cos, pi
 
